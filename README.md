@@ -1,6 +1,8 @@
 # 1. Overview
 Our restaurant website is a modern, responsive platform designed to showcase our menu, location, and ambiance. It aims to provide visitors with a seamless browsing experience and encourage them to visit our restaurant in person.
 
+![restaurant](https://github.com/Kym0012/modernRestaurantWebsite/assets/127049484/98f1a32f-9b58-4e02-8a4e-10bba360189b)
+
 # 2. Features
 Menu Display: The website displays our menu with prices and descriptions, categorized by meal type (e.g., breakfast, lunch, dinner).
 Location and Contact Information: Visitors can easily find our location, contact information, and hours of operation.
